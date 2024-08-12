@@ -35,9 +35,9 @@ public class MainActivity extends AppCompatActivity {
 
     //Creamos un metodo que se va encargar de meter los datos(Inmuebles) a la vista
     public void cargarDatos() {
-        lista.add(new Inmueble(R.drawable.casa, "San Martin 3487", 1.4564));
-        lista.add(new Inmueble(R.drawable.csa,"Bolivar 2459", 20000));
-        lista.add(new Inmueble(R.drawable.casita,"Potrero 4567", 90000));
+        lista.add(new Inmueble(R.drawable.casa, "San Martin 375487", 1.4564));
+        lista.add(new Inmueble(R.drawable.csa,"Bolivar 245459", 20000));
+        lista.add(new Inmueble(R.drawable.casita,"Potrero 456725", 90000));
     }
 
 }
